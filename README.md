@@ -26,11 +26,11 @@ Import the correct packages to begin coding.
 Use Plots and data frame to get the correct portfolio
 
 
-![df](Images/api.png)
-![bar](Images/json.png)
-![line](Images/df.png)
-![line_2](Images/pie.png)
-![map](Images/mc.png)
+![df](Images/df.png)
+![bar](Images/bar.png)
+![line](Images/line.png)
+![line_2](Images/line_2.png)
+![map](Images/map.png)
 
 
 
